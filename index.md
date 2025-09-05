@@ -1,3 +1,9 @@
+# Shely's First CS193 Homework
+- I like how the TA's think of activities during the lectures that are interactive with the students.
+- I like that through the class, CS 193, I was able to make some new friends
+- I like how the class makes computer science feel less intimidating and more approachable.
+- I like how the class helps us feel more prepared for future CS courses at Purdue.
+  
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
